@@ -9,3 +9,6 @@ This course will give an overview of computer interface components and their cha
 - Explain the working mechanism of Disk, Drum, Motors and Printers and their real life application.
 - Describe the types and formats of communication protocols like I2C, SPI, UART, USART, and USB.
 - Explain LCD, LED, Seven- segment display, Keyboard, Mouse work and interface with their interfacing principal.
+
+## Playlist
+  https://youtube.com/playlist?list=PL-e5hRmSNQ_2fp63nMwnox2X-c56PDuzw
