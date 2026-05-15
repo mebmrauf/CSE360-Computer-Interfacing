@@ -11,4 +11,4 @@ This course will give an overview of computer interface components and their cha
 - Explain LCD, LED, Seven- segment display, Keyboard, Mouse work and interface with their interfacing principal.
 
 ## Playlist
-  https://youtube.com/playlist?list=PL-e5hRmSNQ_2fp63nMwnox2X-c56PDuzw
+    https://youtube.com/playlist?list=PL-e5hRmSNQ_2fp63nMwnox2X-c56PDuzw
