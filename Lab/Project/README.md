@@ -105,3 +105,5 @@ An Arduino-based smart security system for motorcycles with dual-stage motion de
 - **Lockout Trigger**: 3 alarms within 5 minutes
 - **SMS Check Interval**: 15 seconds
 - **Geofence Check Interval**: 30 seconds
+
+**If you experience issues with SMS alerts, try using MotorcycleSecuritySystem(without delay).ino.**
